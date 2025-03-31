@@ -5,7 +5,7 @@
 
 This repo demonstrates core GEN AI functionality that could be incorporated into a simple web-based app that generates tailored listings for a Realtor's Home Listings website.
 
-The app receives user preferences via a form, and then implements filtering in combination with semantically-aware retrieval to find appropriate listings for the user.  It then generates an augmented listing descriptions that are especially tailored for the specific user's requirements and tastes.
+The app receives user preferences via a form, and then implements filtering in combination with semantic search to find appropriate listings for the user. It then generates augmented listing descriptions that are especially tailored for the specific user's requirements and tastes.
 
 Both the generation of artificial data for the listings db and the app itself demonstrate the use of several GenAI solution technologies:
 
@@ -14,7 +14,7 @@ Both the generation of artificial data for the listings db and the app itself de
 - Stable Diffusion model for prompted CV image generation
 - RAG-based Augmented listing descriptions tailoring in user-specific requirements
 
-The Repo was written by Hani ElSakkout to fulfill one of many requirements for the Udacity Generative AI Certification 03/2025.
+The Repo was written to fulfill one of multiple requirements for the Udacity Generative AI Nanodegree Certification 03/2025.
 
 ## Use Instructions
 
